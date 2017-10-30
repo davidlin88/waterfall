@@ -1,0 +1,44 @@
+/*All Tags*/
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+body {
+	font-family: "微软雅黑";
+}
+img {
+	border: none;
+}
+
+a {
+	text-decoration: none;
+	margin: 0 auto;
+}
+
+
+/*wrap*/
+#wrap {
+	position: relative;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+#wrap > div {
+	float: left;
+	box-sizing: border-box;
+	width: 290px;
+	height: auto;
+	margin: 10px;
+	border-radius: 5px;
+}
+#wrap > div >img {
+	width: 100%
+}
+#wrap > div > a {
+	font-size: 17px;
+	font-weight: lighter;
+	line-height: 30px;
+	color: #333;
+}
