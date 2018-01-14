@@ -1,39 +1,39 @@
 //模拟数据Json
 var data = [{
-	"src": "../images/img_1.jpg",
+	"src": "./images/img_1.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_2.jpg",
+	"src": "./images/img_2.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_3.jpg",
+	"src": "./images/img_3.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_4.jpg",
+	"src": "./images/img_4.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_5.jpg",
+	"src": "./images/img_5.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_6.jpg",
+	"src": "./images/img_6.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_7.jpg",
+	"src": "./images/img_7.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_8.jpg",
+	"src": "./images/img_8.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_9.jpg",
+	"src": "./images/img_9.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_10.jpg",
+	"src": "./images/img_10.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_11.jpg",
+	"src": "./images/img_11.jpg",
 	"title": "薄雾浓云愁永昼"
 },{
-	"src": "../images/img_12.jpg",
+	"src": "./images/img_12.jpg",
 	"title": "薄雾浓云愁永昼"
 }]
 
